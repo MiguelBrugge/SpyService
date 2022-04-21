@@ -1,0 +1,13 @@
+RewriteEngine On
+
+RewriteBase /Sprint6/
+
+RewriteRule ^home Index.php?pagina=home
+RewriteRule ^overOns Index.php?pagina=overOns
+RewriteRule ^documentPagina Index.php?pagina=documentPagina
+RewriteRule ^contact Index.php?pagina=contact
+
+ErrorDocument 404 /Sprint6/404.php
+
+ErrorDocument 403 /Sprint6/404.php
+

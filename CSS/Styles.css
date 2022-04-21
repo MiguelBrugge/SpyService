@@ -1,0 +1,163 @@
+.menubalk a{
+    color: rgb(0, 132, 255);
+    font-weight: bold; 
+}
+
+.menubalk a:hover, p {
+    color: rgb(3, 83, 148);
+}
+
+.active{
+    color: rgb(255, 255, 255);
+}
+
+.darkblue{
+    color: rgb(3, 83, 148);
+}
+
+h3, p, nav{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+h3{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+p{
+    color: rgb(0, 132, 255);
+}
+
+.BackgroundImg{
+    width:100%;
+}
+
+.text{
+    margin-top: 20px;
+    text-align: center;
+    background-color: rgb(69, 108, 167);
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.row img{
+    margin-top: 20px;
+    height: 200px;
+    width: 550px;
+}
+
+.col-3{
+    margin-left: 50px;
+}
+
+.col-3 p{
+    color: black;
+    margin-top: 20px;
+    font-size: 13px;
+    margin-left: -35px;
+    margin-right: -35px;
+}
+
+.backgroundcolor{
+    background-color: rgb(215, 215, 253);
+}
+
+.gDocument{
+    margin: 50px;
+    width: 10%;
+}
+
+.darkbluebold{
+    color: rgb(3, 83, 148);
+    font-weight: bold;
+}
+
+.Login{
+    background-color: rgb(69, 108, 167);
+    border-radius: 5px;
+    height: 17%;
+    width: 100%;
+    color: white;
+    text-align: center;
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+    border: none;
+}
+
+.Login:hover{
+    background-color: rgb(0, 132, 255);
+    box-shadow: 0px 0px 10px rgb(0, 132, 255);
+}
+
+.contacttitel{
+    font-size: 20px;
+    color:  rgb(69, 108, 167);
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.bezoekAdrestekst{
+    margin-top: 20px;
+    font-size: 17px;
+    color: rgb(69, 108, 167);
+    font-weight: normal;
+    text-transform: none;
+}
+
+.contactform{  
+    display: block;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 3px;
+    border: solid 1px rgb(196, 196, 196);
+}
+
+.contactbutton{
+    display: block;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    font-weight: bold;
+    background-color: rgb(0, 132, 255);
+    border-radius: 3px;
+    border: none;
+}
+
+.contactbutton:hover{
+    box-shadow: 0px 0px 10px rgb(0, 132, 255);
+}
+
+.message{
+    height: 100px;
+}
+
+.errorviernulvierbutton{
+    color: rgb(255, 255, 255);
+    font-weight: bold; 
+    text-transform: none;
+    background-color: rgb(3, 83, 148);
+    border-radius: 5px;
+    padding: 5px;
+    text-decoration: none;
+}
+
+.errorviernulvier{
+    color: rgb(0, 0, 0);
+    font-weight: bold; 
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.errorviernulvierbutton:hover{
+    background-color: rgb(0, 132, 255);
+    box-shadow: 0px 0px 10px rgb(0, 132, 255);
+    height: 10px;
+}
+
+
